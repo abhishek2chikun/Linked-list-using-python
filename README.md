@@ -1,2 +1,3 @@
 # Linked-list
-Here you can find Linked list notes and its code implemented in python
+
+L->i->n->k->e->d  ->L->i->s->t ->C->o->d->e->  ->I->n  ->P->y->t->h->o->n
